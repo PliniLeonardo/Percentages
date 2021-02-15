@@ -1,2 +1,3 @@
 # Percentages
-A brief study of alcoholic consumption in relation to school level and familiar condition
+You can find the results of this week at the end of the script 
+
